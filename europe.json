@@ -27,7 +27,7 @@
 				"type": "Polygon",
 				"properties": {
 					"NAME": "Bulgaria",
-                    "URL": "bulgaria"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/bulgaria"
 				},
 				"id": "BG",
 				"arcs": [
@@ -37,7 +37,7 @@
 				"type": "MultiPolygon",
 				"properties": {
 					"NAME": "Denmark",
-                    "URL": "denmark"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/denmark"
 				},
 				"id": "DK",
 				"arcs": [
@@ -100,7 +100,7 @@
 				"type": "MultiPolygon",
 				"properties": {
 					"NAME": "Ireland",
-                    "URL": "ireland"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/ireland"
 				},
 				"id": "IE",
 				"arcs": [
@@ -148,7 +148,7 @@
 				"type": "Polygon",
 				"properties": {
 					"NAME": "Austria",
-                    "URL": "austria"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/austria"
 				},
 				"id": "AT",
 				"arcs": [
@@ -158,7 +158,7 @@
 				"type": "Polygon",
 				"properties": {
 					"NAME": "Czech Rep.",
-                    "URL": "czech-republic"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/czech-republic"
 				},
 				"id": "CZ",
 				"arcs": [
@@ -168,7 +168,7 @@
 				"type": "MultiPolygon",
 				"properties": {
 					"NAME": "Finland",
-                    "URL": "finland"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/finland"
 				},
 				"id": "FI",
 				"arcs": [
@@ -255,7 +255,7 @@
 				"type": "MultiPolygon",
 				"properties": {
 					"NAME": "France",
-                    "URL": "france"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/france"
 				},
 				"id": "FR",
 				"arcs": [
@@ -291,7 +291,7 @@
 				"type": "MultiPolygon",
 				"properties": {
 					"NAME": "Germany",
-                    "URL": "germany"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/germany"
 				},
 				"id": "DE",
 				"arcs": [
@@ -363,7 +363,7 @@
 				"type": "MultiPolygon",
 				"properties": {
 					"NAME": "Greece",
-                    "URL": "greece"
+                    "URL": "https://www.myinterrail.co.uk/greek-options/"
 				},
 				"id": "GR",
 				"arcs": [
@@ -576,7 +576,7 @@
 				"type": "MultiPolygon",
 				"properties": {
 					"NAME": "Croatia",
-                    "URL": "croatia"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/croatia"
 				},
 				"id": "HR",
 				"arcs": [
@@ -642,7 +642,7 @@
 				"type": "Polygon",
 				"properties": {
 					"NAME": "Hungary",
-                    "URL": "hungary"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/hungary"
 				},
 				"id": "HU",
 				"arcs": [
@@ -652,7 +652,7 @@
 				"type": "MultiPolygon",
 				"properties": {
 					"NAME": "Italy",
-                    "URL": "italy"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/italy"
 				},
 				"id": "IT",
 				"arcs": [
@@ -764,7 +764,7 @@
 				"type": "Polygon",
 				"properties": {
 					"NAME": "Slovakia",
-                    "URL": "slovakia"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/slovakia"
 				},
 				"id": "SK",
 				"arcs": [
@@ -784,7 +784,7 @@
 				"type": "Polygon",
 				"properties": {
 					"NAME": "Macedonia",
-                    "URL": "fyr-macedonia"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/fyr-macedonia"
 				},
 				"id": "MK",
 				"arcs": [
@@ -794,7 +794,7 @@
 				"type": "Polygon",
 				"properties": {
 					"NAME": "Belgium",
-                    "URL": "benelux"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/benelux"
 				},
 				"id": "BE",
 				"arcs": [
@@ -814,7 +814,7 @@
 				"type": "Polygon",
 				"properties": {
 					"NAME": "Luxembourg",
-                    "URL": "benelux"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/benelux"
 				},
 				"id": "LU",
 				"arcs": [
@@ -844,7 +844,7 @@
 				"type": "MultiPolygon",
 				"properties": {
 					"NAME": "Netherlands",
-                    "URL": "benelux"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/benelux"
 				},
 				"id": "NL",
 				"arcs": [
@@ -880,7 +880,7 @@
 				"type": "MultiPolygon",
 				"properties": {
 					"NAME": "Norway",
-                    "URL": "norway"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/norway"
 				},
 				"id": "NO",
 				"arcs": [
@@ -1168,7 +1168,7 @@
 				"type": "Polygon",
 				"properties": {
 					"NAME": "Poland",
-                    "URL": "poland"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/poland"
 				},
 				"id": "PL",
 				"arcs": [
@@ -1178,7 +1178,7 @@
 				"type": "Polygon",
 				"properties": {
 					"NAME": "Portugal",
-                    "URL": "portugal"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/portugal"
 				},
 				"id": "PT",
 				"arcs": [
@@ -1188,7 +1188,7 @@
 				"type": "Polygon",
 				"properties": {
 					"NAME": "Romania",
-                    "URL": "romania"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/romania"
 				},
 				"id": "RO",
 				"arcs": [
@@ -1208,7 +1208,7 @@
 				"type": "Polygon",
 				"properties": {
 					"NAME": "Slovenia",
-                    "URL": "slovenia"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/slovenia"
 				},
 				"id": "SI",
 				"arcs": [
@@ -1218,7 +1218,7 @@
 				"type": "MultiPolygon",
 				"properties": {
 					"NAME": "Spain",
-                    "URL": "spain"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/spain"
 				},
 				"id": "ES",
 				"arcs": [
@@ -1254,7 +1254,7 @@
 				"type": "MultiPolygon",
 				"properties": {
 					"NAME": "Sweden",
-                    "URL": "sweden"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/sweden"
 				},
 				"id": "SE",
 				"arcs": [
@@ -1320,7 +1320,7 @@
 				"type": "Polygon",
 				"properties": {
 					"NAME": "Switzerland",
-                    "URL": "switzerland"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/switzerland"
 				},
 				"id": "CH",
 				"arcs": [
@@ -1331,7 +1331,7 @@
 				"type": "MultiPolygon",
 				"properties": {
 					"NAME": "Turkey",
-                    "URL": "turkey"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/turkey"
 				},
 				"id": "TR",
 				"arcs": [
@@ -1355,7 +1355,7 @@
 				"type": "MultiPolygon",
 				"properties": {
 					"NAME": "UK",
-                    "URL": "great-britain"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/great-britain"
 				},
 				"id": "GB",
 				"arcs": [
@@ -1539,7 +1539,7 @@
 				"type": "Polygon",
 				"properties": {
 					"NAME": "Serbia",
-                    "URL": "serbia"
+                    "URL": "https://www.myinterrail.co.uk/interrail-passes/one-country-pass/serbia"
 				},
 				"id": "RS",
 				"arcs": [
